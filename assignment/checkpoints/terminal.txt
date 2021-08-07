@@ -1,21 +1,26 @@
 # Type your responses on a new line
 
-# 1 - What is the command for listing the files in the current folder (directory)?
+# 1 - What is the command for listing the files in the current folder (directory)? ls.
 
-# 2 - What is the command for changing directories?
+# 2 - What is the command for changing directories? cd
 
-# 3 - What is the command for going "up" a folder (to a parent directory)?
+# 3 - What is the command for going "up" a folder (to a parent directory)? cd ..
 
-# 4 - What is a quick way to create a new folder?
+# 4 - What is a quick way to create a new folder? mkdir for new foldername.
 
-# 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+# 5 - What output would you expect when you run the command 'ls' in an empty folder? nothing empty folder.
+ What about a folder containing files? its will show the folder files.
 
-# 6 - What is a quick way to create a new file?
+# 6 - What is a quick way to create a new file? Touch new filename.
 
-# 7 - Run 'git --version' in your terminal. What is the output?
+# 7 - Run 'git --version' in your terminal. What is the output?/ git version 2.31.1.windows.1
 
-# 8 - Why would you run the command 'git status'?
+# 8 - Why would you run the command 'git status'? It lets you know the changes that have been made, 
+and the also the changes that have not being made.
 
-# 9 - What does the command 'git add .' do?
+# 9 - What does the command 'git add .' do? git add . will add everything to git that is in that current folder.
+  Once you use git add . the files will no longer be untracked, and they will change to be committed.
 
-# 10 - What is the command to push your committed changes to your repo on GitHub?
+# 10 - What is the command to push your committed changes to your repo on GitHub?In order to send files 
+via GitHub you have to use git push -u origin master, and it will create a location on GitHub.
+
